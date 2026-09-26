@@ -6,6 +6,9 @@ The application allows users to discover movies, search for movies, view detaile
 
 ---
 
+## 🎥 Project Walkthrough
+ 👉 **[Watch my Loom Demo](https://www.loom.com/share/b193945762ae401285113f3655ab2d19)**
+
 ## 📌 Project Overview
 
 The Movie Discovery App provides a responsive interface for discovering movies through different categories such as:
